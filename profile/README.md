@@ -1,29 +1,30 @@
 # CodigoSH
 
-The core organization for scalable interface systems and software architecture. We build tools that prioritize performance, maintainability, and clean implementation.
+The central hub for high-performance software systems and modular UI architecture. We focus on engineering clean, maintainable code through strict standards and modern development practices.
+
+[Documentation](https://github.com/CodigoSH/.github) • [Core Systems](https://github.com/CodigoSH/ui-core)
 
 ---
 
-### Systems & Engineering
+### Featured Project: Lastboard
 
-We maintain a collection of high-level building blocks for modern web development, focusing on the intersection of declarative logic and modular styling.
+**Lastboard** is our flagship project—a sophisticated workspace designed for professional productivity and visual organization.
 
-* **Design Systems**: Low-level CSS architectures (CSS-in-JS, PostCSS, Utility-first) focused on design tokens and performance.
-* **Logic Modules**: Decoupled JavaScript engines built for reusability across different frameworks.
-* **Automation**: CI/CD pipelines optimized for frontend asset delivery and quality assurance.
-
-### Project Standards
-
-Every repository under **CodigoSH** adheres to a strict set of engineering standards to ensure long-term stability:
-
-1.  **Strict Typing**: Type-safe implementations wherever possible.
-2.  **Modular CSS**: Component-based styling using BEM or scoped modules to avoid side effects.
-3.  **Predictable Logic**: Functional programming patterns and immutable state management.
-4.  **Documentation**: Mandatory technical specifications for every public module.
-
-### Contributing
-
-If you are interested in contributing to our core libraries or reporting issues, please read our [Organization Guidelines](https://github.com/CodigoSH/.github/blob/main/CONTRIBUTING.md).
+* **Status:** Active Development
+* **Tech Stack:** JavaScript (ES6+), Modern CSS Architecture.
+* **Access:** [Explore Lastboard](https://github.com/CodigoSH/Lastboard)
 
 ---
-&copy; 2026 CodigoSH • Software Architecture & Systems
+
+### Engineering Principles
+
+Every project under the **CodigoSH** umbrella follows a specific set of core values:
+
+* **Modular Architecture**: Independent CSS/JS modules to ensure reusability and prevent technical debt.
+* **Performance First**: Zero-bloat policy. We prioritize lightweight, native implementations.
+* **Standardization**: Strict adherence to organizational linting and branching rules.
+
+---
+<p align="center">
+  <sub>&copy; 2026 CodigoSH — Software Architecture & Interface Systems.</sub>
+</p>
