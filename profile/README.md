@@ -1,30 +1,49 @@
-# CodigoSH
+# 👋 Welcome to CodigoSH
 
-The central hub for high-performance software systems and modular UI architecture. We focus on engineering clean, maintainable code through strict standards and modern development practices.
+We're a small but ambitious team building modern and efficient tools. We focus on clean development, scalable architectures, and user experiences that actually work.
 
-[Documentation](https://github.com/CodigoSH/.github) • [Core Systems](https://github.com/CodigoSH/ui-core)
+## What we do
+
+At CodigoSH we believe software should be:
+- **Fast** - Optimized from the start, no unnecessary bloat
+- **Modular** - Independent components that make maintenance easier
+- **Accessible** - Designed to be used, not just admired
+
+## Featured Project: Lastboard
+
+**[Lastboard](https://github.com/CodigoSH/Lastboard)** is our flagship: a high-performance personal dashboard that replaces heavy alternatives with a lightweight, modern experience.
+
+- Single binary - Deploy in seconds
+- Premium UI with glassmorphism
+- Native grid system without heavy dependencies
+- Full dark/light theme support
+
+[Explore Lastboard →](https://github.com/CodigoSH/Lastboard)
+
+## Our values
+
+### Clean code first
+Every project follows strict linting standards and modular structure. We believe code should be easy to read and maintain.
+
+### Performance above all
+We make technical decisions that prioritize speed and efficiency. If something can be done faster without compromising quality, we do it.
+
+### Continuous learning
+We're a growing team, always exploring new technologies and better ways to solve problems.
+
+## Join us
+
+CodigoSH is in its early stages. If you share our vision and want to contribute, we'd love to meet you!
+
+- Report bugs or suggest features in our repos
+- Join discussions in Issues
+- Contribute with PRs (check our contribution guides)
+- Support us on [Open Collective](https://opencollective.com/codigosh)
 
 ---
 
-### Featured Project: Lastboard
+**CodigoSH** - Building software worth using.
 
-**Lastboard** is our flagship project—a sophisticated workspace designed for professional productivity and visual organization.
-
-* **Status:** Active Development
-* **Tech Stack:** JavaScript (ES6+), Modern CSS Architecture.
-* **Access:** [Explore Lastboard](https://github.com/CodigoSH/Lastboard)
-
----
-
-### Engineering Principles
-
-Every project under the **CodigoSH** umbrella follows a specific set of core values:
-
-* **Modular Architecture**: Independent CSS/JS modules to ensure reusability and prevent technical debt.
-* **Performance First**: Zero-bloat policy. We prioritize lightweight, native implementations.
-* **Standardization**: Strict adherence to organizational linting and branching rules.
-
----
 <p align="center">
-  <sub>&copy; 2026 CodigoSH — Software Architecture & Interface Systems.</sub>
+  <sub>Located in Spain 🇪🇸 | Open source, always</sub>
 </p>
