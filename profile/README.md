@@ -1,18 +1,29 @@
-# CodigoSH 🛠️
+# CodigoSH
 
-Welcome to the official GitHub organization for **CodigoSH**. We are focused on developing high-quality software solutions with a strong emphasis on user interface design and efficient logic.
-
-## 🎯 Our Focus
-- **Modular UI:** Crafting reusable components using modern CSS techniques.
-- **Interactive Logic:** Implementing robust JavaScript systems to enhance user experience.
-- **Clean Code:** Maintaining high standards for readability and scalability.
-
-## 🚀 Active Projects
-*Currently, we are organizing our base styles and UI scripts to provide a solid foundation for our future repositories.*
-
-## 🤝 Connect with Us
-- **Developer Documentation:** [Link to your docs or GitHub Pages]
-- **Contact:** [Your contact email or website]
+The core organization for scalable interface systems and software architecture. We build tools that prioritize performance, maintainability, and clean implementation.
 
 ---
-*“Coding the standard, styling the future.”*
+
+### Systems & Engineering
+
+We maintain a collection of high-level building blocks for modern web development, focusing on the intersection of declarative logic and modular styling.
+
+* **Design Systems**: Low-level CSS architectures (CSS-in-JS, PostCSS, Utility-first) focused on design tokens and performance.
+* **Logic Modules**: Decoupled JavaScript engines built for reusability across different frameworks.
+* **Automation**: CI/CD pipelines optimized for frontend asset delivery and quality assurance.
+
+### Project Standards
+
+Every repository under **CodigoSH** adheres to a strict set of engineering standards to ensure long-term stability:
+
+1.  **Strict Typing**: Type-safe implementations wherever possible.
+2.  **Modular CSS**: Component-based styling using BEM or scoped modules to avoid side effects.
+3.  **Predictable Logic**: Functional programming patterns and immutable state management.
+4.  **Documentation**: Mandatory technical specifications for every public module.
+
+### Contributing
+
+If you are interested in contributing to our core libraries or reporting issues, please read our [Organization Guidelines](https://github.com/CodigoSH/.github/blob/main/CONTRIBUTING.md).
+
+---
+&copy; 2026 CodigoSH • Software Architecture & Systems
