@@ -1,0 +1,33 @@
+name: Code Quality Standards
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    name: Lint CSS & JavaScript
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check CSS Quality
+        run: npm run lint:css --if-present
+        # Este comando buscará errores en tus archivos CSS
+
+      - name: Check JS Logic
+        run: npm run lint:js --if-present
+        # Este comando buscará errores de sintaxis en JavaScript
